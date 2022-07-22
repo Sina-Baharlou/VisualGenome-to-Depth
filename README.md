@@ -1,7 +1,7 @@
 
 # Visual-Genome to Depth Maps
 
-The goal of this repository is to convert the RGB images of [Visual-Genome](https://visualgenome.org/) dataset to Depth Maps. This code is a part of our paper called [<i>"Improving Visual Relation Detection using Depth Maps"</i>](https://arxiv.org/abs/1905.00966) and is used to generate VG-Depth dataset. 
+The goal of this repository is to convert the RGB images of [Visual-Genome](https://visualgenome.org/) dataset to Depth Maps. This code is part of our paper called [<i>"Improving Visual Relation Detection using Depth Maps"</i>](https://arxiv.org/abs/1905.00966) and is used to generate VG-Depth dataset. 
 For further information, please visit the main repository [here](https://github.com/Sina-Baharlou/Depth-VRD).
 
 This code is based on RGB-to-Depth architecture introduced in (Laina et al., 2016) [FCRN-DepthPrediction](https://github.com/iro-cp/FCRN-DepthPrediction). The architecture is a fully convolutional neural network built on ResNet-50, and trained in an end-to-end fashion on data from NYU Depth Dataset v2.

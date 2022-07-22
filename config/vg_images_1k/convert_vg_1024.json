@@ -1,0 +1,13 @@
+{
+  "md_filename": "dataset/image_data.json",
+  "img_path": "dataset/vg_images/",
+  "model_path": "checkpoint/NYU_ResNet-UpProj.npy",
+  "output_path": "output/vg_depth_1024_1k/",
+  "output_fmt": "png",
+  "cv_size": 1024,
+  "batch_size": 16,
+  "output_scale_factor": 0.5,
+  "n_iterations": 64,
+  "offset": 0,
+  "upper_bound": -1
+}
